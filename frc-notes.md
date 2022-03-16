@@ -150,22 +150,22 @@ X
 Capital and reserves X
 
 
-Format 2 CU CU
-Assets
-Called up share capital not paid X
-Fixed assets X
-Current assets X
-Prepayments and accrued income X
-X
-Capital, Reserves and Liabilities
-Capital and reserves X
-Provisions for liabilities X
-Creditors
-Amounts falling due within one year X
-Amounts falling due after one year X
-X
-Accruals and deferred income X
-X
+    Format 2 CU CU
+    Assets
+    Called up share capital not paid X
+    Fixed assets X
+    Current assets X
+    Prepayments and accrued income X
+    X
+    Capital, Reserves and Liabilities
+    Capital and reserves X
+    Provisions for liabilities X
+    Creditors
+    Amounts falling due within one year X
+    Amounts falling due after one year X
+    X
+    Accruals and deferred income X
+    X
 
 Section 5
 Income Statement
@@ -181,15 +181,17 @@ Presentation of profit or loss
 accordance with Section C of Part 1 of Schedule 1 to the Small Companies
 Regulations8 or Section C of Part 1 of Schedule 1 to the Small LLP Regulations,
 as illustrated below:
-CU
-Turnover X
-Other income X
-Cost of raw materials and consumables (X)
-Staff costs (X)
-Depreciation and other amounts written off assets (X)
-Other charges (X)
-Tax (X)
-Profit or loss9 X / (X)
+
+    CU
+    Turnover X
+    Other income X
+    Cost of raw materials and consumables (X)
+    Staff costs (X)
+    Depreciation and other amounts written off assets (X)
+    Other charges (X)
+    Tax (X)
+    Profit or loss X / (X)
+    
 5.4 An entity shall recognise all items of income and expense in a period in profit or loss
 unless an FRS requires or permits otherwise, or unless prohibited by the Act. For
 example, under this FRS, the effects of corrections of material errors and changes in
